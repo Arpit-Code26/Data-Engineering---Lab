@@ -1,0 +1,9 @@
+TransactionID,Date,Customer,Product,Quantity,Price
+1,2025-01-01,Alice,Shampoo,2,120
+2,2025-01-01,Bob,Soap,3,40
+3,2025-01-02,Charlie,Toothpaste,1,60
+4,2025-01-02,Alice,Soap,5,40
+5,2025-01-03,David,Shampoo,1,120
+6,2025-01-03,Eve,Conditioner,2,150
+7,2025-01-04,Bob,Shampoo,1,120
+8,2025-01-04,Charlie,Soap,2,40
